@@ -52,7 +52,7 @@ Courses | Duration | Certificate
 `and more`
 
 Courses | Duration | Certificate
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: 
 [How To Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | 7 weeks | -link here-
 [How To Code: Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | -link here-
 [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | - No Certificate Provided -
