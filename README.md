@@ -104,3 +104,44 @@ Courses | Duration | Institution | Platform | Certificate
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | University of Wisconsin, Madison | University Online Portal | - No Certificate Provided -
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | - | Online Portal | - No Certificate Provided -
 
+
+### Core theory
+
+**Topics covered**:
+`divide and conquer`
+`sorting and searching`
+`randomized algorithms`
+`graph search`
+`shortest paths`
+`data structures`
+`greedy algorithms`
+`minimum spanning trees`
+`dynamic programming`
+`NP-completeness`
+`and more`
+
+Courses | Duration | Institution | Platform | Certificate
+:-- | :--: | :--: | :--: | :--:
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | Stanford University | Coursera | -link here-
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | Stanford University | Coursera | -link here-
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | Stanford University | Coursera | -link here-
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | Stanford University | Coursera | -link here-
+[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | 13 modules | Princeton University | Coursera | - No Certificate Provided -
+[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | 14 modules | Princeton University | Coursera | - No Certificate Provided -
+
+
+### Core security
+**Topics covered**
+`Confidentiality, Integrity, Availability`
+`Secure Design`
+`Defensive Programming`
+`Threats and Attacks`
+`Network Security`
+`Cryptography`
+`and more`
+
+Courses | Duration | Institution | Platform | Certificate
+:-- | :--: | :--: | :--: | :--:
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | University of California, Davis | Coursera | -link here-
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | University of California, Davis | Coursera | -link here-
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | University of California, Davis | Coursera | -link here-
