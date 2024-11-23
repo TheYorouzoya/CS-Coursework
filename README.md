@@ -74,6 +74,33 @@ Understanding theory is important, but you will also be expected to create progr
 `version control`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
+Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--:
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | Massachusetts Institute of Technology | MIT Open Learning | *No Certificate Provided*
+
+
+### Core systems
+
+**Topics covered**:
+`procedural programming`
+`manual memory management`
+`boolean algebra`
+`gate logic`
+`memory`
+`computer architecture`
+`assembly`
+`machine language`
+`virtual machines`
+`high-level languages`
+`compilers`
+`operating systems`
+`network protocols`
+`and more`
+
+Courses | Duration | Institution | Platform | Certificate
+:-- | :--: | :--: | :--: | :--:
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | 6 weeks | Hebrew University of Jerusalem | Coursera | -link here-
+[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | Hebrew University of Jerusalem | Coursera | -link here-
+[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | University of Wisconsin, Madison | University Online Portal | - No Certificate Provided -
+[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | - | Online Portal | - No Certificate Provided -
+
