@@ -143,5 +143,5 @@ Courses | Duration | Institution | Platform | Certificate
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--:
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | University of California, Davis | Coursera | -link here-
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | University of California, Davis | Coursera | -link here-
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | University of California, Davis | Coursera | -link here-
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | University of California, Davis | Coursera | -link here-
