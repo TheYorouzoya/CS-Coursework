@@ -31,8 +31,8 @@ but specifically chosen to meet the following criteria.
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--: 
-[CS50x - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) | 11 weeks | Harvard | Harvard OpenCourseWare | -link here-
-[CS50w- CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | 9 weeks | Harvard | Harvard OpenCourseWare | -link here-
+[CS50x - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) | 11 weeks | Harvard University | Harvard OpenCourseWare | -link here-
+[CS50w- CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | 9 weeks | Harvard University | Harvard OpenCourseWare | -link here-
 
 ## Core CS
 
@@ -55,7 +55,7 @@ Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--: 
 [How To Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | 7 weeks | The University of British Columbia | edX | -link here-
 [How To Code: Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | The University of British Columbia | edX | -link here-
-[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | Northeastern University | NEU Online Portal - No Certificate Provided -
+[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | Northeastern University | NEU Online Portal | - No Certificate Provided -
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | University of Washington | Coursera | -link here-
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | University of Washington | Coursera | -link here-
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | University of Washington | Coursera | -link here-
