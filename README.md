@@ -29,10 +29,10 @@ but specifically chosen to meet the following criteria.
 `basic data structures and algorithms`
 `and more`
 
-Courses | Duration | Certificate
-:-- | :--: | :--: 
-[CS50x - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) | 11 weeks | -link here-
-[CS50w- CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | 9 weeks | -link here-
+Courses | Duration | Institution | Platform | Certificate
+:-- | :--: | :--: | :--: | :--: 
+[CS50x - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) | 11 weeks | Harvard | Harvard OpenCourseWare | -link here-
+[CS50w- CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | 9 weeks | Harvard | Harvard OpenCourseWare | -link here-
 
 ## Core CS
 
@@ -51,15 +51,29 @@ Courses | Duration | Certificate
 `Ruby`
 `and more`
 
-Courses | Duration | Certificate
-:-- | :--: | :--: 
-[How To Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | 7 weeks | -link here-
-[How To Code: Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | -link here-
-[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | - No Certificate Provided -
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | -link here-
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | -link here-
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | -link here-
-[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | -link here-
-[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | -link here-
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | -link here-
-[Service Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture) | 4 weeks | -link here-
+Courses | Duration | Institution | Platform | Certificate
+:-- | :--: | :--: | :--: | :--: 
+[How To Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | 7 weeks | The University of British Columbia | edX | -link here-
+[How To Code: Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | The University of British Columbia | edX | -link here-
+[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | Northeastern University | NEU Online Portal - No Certificate Provided -
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | University of Washington | Coursera | -link here-
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | University of Washington | Coursera | -link here-
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | University of Washington | Coursera | -link here-
+[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | University of Alberta | Coursera | -link here-
+[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | University of Alberta | Coursera | -link here-
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | University of Alberta | Coursera | -link here-
+[Service Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture) | 4 weeks | University of Alberta | Coursera | -link here-
+
+
+### CS Tools
+Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
+
+**Topics covered**:
+`terminals and shell scripting`
+`command line environments`
+`version control`
+`and more`
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | Massachusetts Institute of Technology | MIT Open Learning | *No Certificate Provided*
