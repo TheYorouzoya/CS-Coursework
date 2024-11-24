@@ -123,10 +123,10 @@ Courses | Duration | Institution | Platform | Certificate
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | Stanford University | Coursera | -link-
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | Stanford University | Coursera | -link-
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | Stanford University | Coursera | -link-
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | Stanford University | Coursera | -link-
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | Stanford University | Coursera | [-link-](https://coursera.org/share/781f0929120a47922c3b5f104415b44f)
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | Stanford University | Coursera | [-link-](https://coursera.org/share/977b39946263ca2d8270d1ee965d6f12)
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | Stanford University | Coursera | [-link-](https://coursera.org/share/6a7c3c7cb6308133da8f5f6928d384c1)
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | Stanford University | Coursera | [-link-](https://coursera.org/share/38353e250346ddc096d9b2a7b96c7c1f)
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | 13 modules | Princeton University | Coursera | - No Certificate Provided -
 [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | 14 modules | Princeton University | Coursera | - No Certificate Provided -
 
