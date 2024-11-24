@@ -145,3 +145,32 @@ Courses | Duration | Institution | Platform | Certificate
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | University of California, Davis | Coursera | -link here-
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | University of California, Davis | Coursera | -link here-
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | University of California, Davis | Coursera | -link here-
+
+
+### Core applications
+
+**Topics covered**:
+`Agile methodology`
+`REST`
+`software specifications`
+`refactoring`
+`relational databases`
+`transaction processing`
+`data modeling`
+`neural networks`
+`supervised learning`
+`unsupervised learning`
+`OpenGL`
+`ray tracing`
+`and more`
+
+Courses | Duration | Institution | Platform | Certificate
+:-- | :--: | :--: | :--: | :--:
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | Stanford University | edX | -link here-
+[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | Stanford University | edX | -link here-
+[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | Stanford University | edX | -link here-
+[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | Stanford & Deeplearning.ai | Coursera | -link here-
+[Computer Graphics](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html)| 6 weeks | University of California San Diego | Online Portal | - No Certificate Provided -
+[Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | The University of British Columbia | edX | - No Certificate (Audit Access) -
+
+
