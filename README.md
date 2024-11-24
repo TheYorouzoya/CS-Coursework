@@ -33,6 +33,7 @@ Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--: 
 [CS50x - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) | 11 weeks | Harvard University | Harvard OpenCourseWare | -link-
 [CS50w- CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | 9 weeks | Harvard University | Harvard OpenCourseWare | -link-
+[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | 5 Modules | Duke University | Coursera | [-link-](https://coursera.org/share/e1bb3cc0f82bbbdbb20a272ccf2d0069)
 
 ## Core CS
 
