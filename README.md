@@ -31,8 +31,8 @@ but specifically chosen to meet the following criteria.
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--: 
-[CS50x - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) | 11 weeks | Harvard University | Harvard OpenCourseWare | -link here-
-[CS50w- CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | 9 weeks | Harvard University | Harvard OpenCourseWare | -link here-
+[CS50x - CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) | 11 weeks | Harvard University | Harvard OpenCourseWare | -link-
+[CS50w- CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) | 9 weeks | Harvard University | Harvard OpenCourseWare | -link-
 
 ## Core CS
 
@@ -53,16 +53,16 @@ Courses | Duration | Institution | Platform | Certificate
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--: 
-[How To Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | 7 weeks | The University of British Columbia | edX | -link here-
-[How To Code: Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | The University of British Columbia | edX | -link here-
+[How To Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data) | 7 weeks | The University of British Columbia | edX | [-link-](https://courses.edx.org/certificates/1b4e09f97a254918905a8002faf37ee1 )
+[How To Code: Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | The University of British Columbia | edX | [-link-](https://courses.edx.org/certificates/62531e8b4997471d820919f51ec22bc1)
 [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | Northeastern University | NEU Online Portal | - No Certificate Provided -
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | University of Washington | Coursera | -link here-
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | University of Washington | Coursera | -link here-
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | University of Washington | Coursera | -link here-
-[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | University of Alberta | Coursera | -link here-
-[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | University of Alberta | Coursera | -link here-
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | University of Alberta | Coursera | -link here-
-[Service Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture) | 4 weeks | University of Alberta | Coursera | -link here-
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | University of Washington | Coursera | [-link-](https://coursera.org/share/95bb69cfeb6bc8672034a161eaf828f9)
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | University of Washington | Coursera | [-link-](https://coursera.org/share/628432f196dab5ff01c4af4167a51bf1)
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | University of Washington | Coursera | [-link-](https://coursera.org/share/92e85fa046d03c3001e1f7191a9cb0fb)
+[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | University of Alberta | Coursera | [-link-](https://coursera.org/share/c6a4ec0470f014f1c14fb5e2e23eedb3)
+[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | University of Alberta | Coursera | [-link-](https://coursera.org/share/d93ca6e0294240c91adc638984adb6ab)
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | University of Alberta | Coursera | [-link-](https://coursera.org/share/a2f4c227c586e2ef4e87f766caca0011)
+[Service Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture) | 4 weeks | University of Alberta | Coursera | [-link-](https://coursera.org/share/9d7c82ee55769f6114040f74e72a832e)
 
 
 ### CS Tools
@@ -99,8 +99,8 @@ Courses | Duration | Institution | Platform | Certificate
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | 6 weeks | Hebrew University of Jerusalem | Coursera | -link here-
-[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | Hebrew University of Jerusalem | Coursera | -link here-
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | 6 weeks | Hebrew University of Jerusalem | Coursera | -link-
+[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | Hebrew University of Jerusalem | Coursera | -link-
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | University of Wisconsin, Madison | University Online Portal | - No Certificate Provided -
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | - | Online Portal | - No Certificate Provided -
 
@@ -122,10 +122,10 @@ Courses | Duration | Institution | Platform | Certificate
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | Stanford University | Coursera | -link here-
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | Stanford University | Coursera | -link here-
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | Stanford University | Coursera | -link here-
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | Stanford University | Coursera | -link here-
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | Stanford University | Coursera | -link-
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | Stanford University | Coursera | -link-
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | Stanford University | Coursera | -link-
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | Stanford University | Coursera | -link-
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | 13 modules | Princeton University | Coursera | - No Certificate Provided -
 [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | 14 modules | Princeton University | Coursera | - No Certificate Provided -
 
@@ -142,9 +142,9 @@ Courses | Duration | Institution | Platform | Certificate
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--:
-[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | University of California, Davis | Coursera | -link here-
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | University of California, Davis | Coursera | -link here-
-[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | University of California, Davis | Coursera | -link here-
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | University of California, Davis | Coursera | -link-
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | University of California, Davis | Coursera | -link-
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | University of California, Davis | Coursera | -link-
 
 
 ### Core applications
@@ -166,10 +166,10 @@ Courses | Duration | Institution | Platform | Certificate
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--:
-[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | Stanford University | edX | -link here-
-[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | Stanford University | edX | -link here-
-[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | Stanford University | edX | -link here-
-[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | Stanford & Deeplearning.ai | Coursera | -link here-
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | Stanford University | edX | -link-
+[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | Stanford University | edX | -link-
+[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | Stanford University | edX | -link-
+[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | Stanford & Deeplearning.ai | Coursera | -link-
 [Computer Graphics](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html)| 6 weeks | University of California San Diego | Online Portal | - No Certificate Provided -
 [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | The University of British Columbia | edX | - No Certificate (Audit Access) -
 
