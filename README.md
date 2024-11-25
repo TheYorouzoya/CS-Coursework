@@ -100,8 +100,8 @@ Courses | Duration | Institution | Platform | Certificate
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | 6 weeks | Hebrew University of Jerusalem | Coursera | -link-
-[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | Hebrew University of Jerusalem | Coursera | -link-
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | 6 weeks | Hebrew University of Jerusalem | Coursera | [-link-](https://coursera.org/share/a7920cb0a127ebf929596cd1857cfba5)
+[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | Hebrew University of Jerusalem | Coursera | [-link-](https://coursera.org/share/8c6d96e977fb225fa397711a87510d98)
 [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | University of Wisconsin, Madison | University Online Portal | - No Certificate Provided -
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | - | Online Portal | - No Certificate Provided -
 
@@ -143,9 +143,9 @@ Courses | Duration | Institution | Platform | Certificate
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--:
-[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | University of California, Davis | Coursera | -link-
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | University of California, Davis | Coursera | -link-
-[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | University of California, Davis | Coursera | -link-
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | University of California, Davis | Coursera | [-link-](https://coursera.org/share/f63cb59491ce98f5fdd18c87f513ac72)
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | University of California, Davis | Coursera | [-link-](https://coursera.org/share/f6bf30764bfc487984b33b947ab94d12)
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | University of California, Davis | Coursera | [-link-](https://coursera.org/share/8a22065648a8abc5a4b28f2ceddbeed9)
 
 
 ### Core applications
@@ -167,7 +167,7 @@ Courses | Duration | Institution | Platform | Certificate
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--:
-[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | Stanford University | edX | -link-
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | Stanford University | edX | [-link-](https://courses.edx.org/certificates/18c22fdd7c3e42f5a388c0cb8403a5b0)
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | Stanford University | edX | -link-
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | Stanford University | edX | -link-
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | Stanford & Deeplearning.ai | Coursera | -link-
@@ -175,3 +175,10 @@ Courses | Duration | Institution | Platform | Certificate
 [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | The University of British Columbia | edX | - No Certificate (Audit Access) -
 
 
+### AWS Fundamentals
+
+Courses | Institution | Platform | Certificate
+:-- | :--: | :--: | :--:
+[AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | Amazon Web Services | Coursera | [-link-](https://coursera.org/share/9ab1cd5334b7016d7b791822e50a976b)
+[Migrating to the AWS Cloud](https://www.coursera.org/learn/aws-fundamentals-migrating-to-the-cloud) | Amazon Web Services | Coursera | [-link-](https://coursera.org/share/0f7cf89075fbd77d557c9e62330a0e57)
+[Architecting Solutions on AWS](https://www.coursera.org/learn/architecting-solutions-on-aws) | Amazon Web Services | Coursera | [-link-](https://coursera.org/share/7e3aca355fc2b60100304df8d23bc2ae)
