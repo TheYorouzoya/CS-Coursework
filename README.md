@@ -175,6 +175,23 @@ Courses | Duration | Institution | Platform | Certificate
 [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | The University of British Columbia | edX | - No Certificate (Audit Access) -
 
 
+### Core ethics
+
+**Topics covered**:
+`Social Context`
+`Analytical Tools`
+`Professional Ethics`
+`Intellectual Property`
+`Privacy and Civil Liberties`
+`and more`
+
+Courses | Duration | Institution | Platform | Certificate
+:-- | :--: | :--: | :--: | :--:
+[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| 9 weeks | Eindhoven University of Technology | Coursera | - No Certificate (Audit Access) -
+[Introduction to  Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property)| 4 weeks | Northeastern University | Coursera | - No Certificate (Audit Access) -
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | Northeastern University | Coursera | - No Certificate (Audit Access) -
+
+
 ### AWS Fundamentals
 
 Courses | Institution | Platform | Certificate
