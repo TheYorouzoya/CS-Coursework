@@ -191,6 +191,31 @@ Courses | Duration | Institution | Platform | Certificate
 [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | Northeastern University | Coursera | - No Certificate (Audit Access) -
 
 
+## Advanced CS
+
+After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest.
+Not every course from a subcategory needs to be taken.
+But students should take *every* course that is relevant to the field they intend to go into.
+
+### Advanced programming + Final
+
+**Topics covered**:
+`debugging theory and practice`
+`parallel computing`
+`object-oriented analysis and design`
+`large-scale software architecture and design`
+`and more`
+
+Courses | Duration | Institution | Platform | Certificate
+:-- | :--: | :--: | :--: | :--:
+[Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming) | 6 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | -link-
+[Functional Programming Design in Scala](https://www.coursera.org/learn/scala-functional-program-design) | 5 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | -link-
+[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | -link-
+[Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data) | 4 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | -link-
+[Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)| 8 weeks | - | Udacity (YouTube) | - No Certificate Provided -
+[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | - | Udacity (YouTube) | - No Certificate Provided -
+
+
 ### AWS Fundamentals
 
 **Topics covered**:
