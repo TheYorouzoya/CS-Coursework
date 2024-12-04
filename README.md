@@ -193,8 +193,23 @@ Courses | Duration | Institution | Platform | Certificate
 
 ### AWS Fundamentals
 
+**Topics covered**:
+`Core AWS Services`
+`EC2`
+`S3`
+`RDS`
+`VPC`
+`ELB`
+`IAM`
+`Serverless Architectures with AWS Lambda`
+`Cloud Computing Basics (IaaS, PaaS, SaaS)`
+`Amazon RDS and DynamoDB`
+`and more`
+
+
 Courses | Institution | Platform | Certificate
 :-- | :--: | :--: | :--:
 [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | Amazon Web Services | Coursera | [-link-](https://coursera.org/share/9ab1cd5334b7016d7b791822e50a976b)
 [Migrating to the AWS Cloud](https://www.coursera.org/learn/aws-fundamentals-migrating-to-the-cloud) | Amazon Web Services | Coursera | [-link-](https://coursera.org/share/0f7cf89075fbd77d557c9e62330a0e57)
 [Architecting Solutions on AWS](https://www.coursera.org/learn/architecting-solutions-on-aws) | Amazon Web Services | Coursera | [-link-](https://coursera.org/share/7e3aca355fc2b60100304df8d23bc2ae)
+
