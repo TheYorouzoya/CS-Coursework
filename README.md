@@ -208,10 +208,10 @@ But students should take *every* course that is relevant to the field they inten
 
 Courses | Duration | Institution | Platform | Certificate
 :-- | :--: | :--: | :--: | :--:
-[Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming) | 6 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | -link-
-[Functional Programming Design in Scala](https://www.coursera.org/learn/scala-functional-program-design) | 5 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | -link-
-[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | -link-
-[Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data) | 4 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | -link-
+[Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming) | 6 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | *(Ongoing)*
+[Functional Programming Design in Scala](https://www.coursera.org/learn/scala-functional-program-design) | 5 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | *(Ongoing)*
+[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | *(Ongoing)*
+[Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data) | 4 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | *(Ongoing)*
 [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)| 8 weeks | - | Udacity (YouTube) | - No Certificate Provided -
 [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | - | Udacity (YouTube) | - No Certificate Provided -
 
