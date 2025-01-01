@@ -169,7 +169,6 @@ Courses | Duration | Institution | Platform | Certificate
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | Stanford University | edX | [-link-](https://courses.edx.org/certificates/18c22fdd7c3e42f5a388c0cb8403a5b0)
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | Stanford University | edX | -link-
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | Stanford University | edX | -link-
-[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | Stanford & Deeplearning.ai | Coursera | -link-
 [Computer Graphics](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html)| 6 weeks | University of California San Diego | Online Portal | - No Certificate Provided -
 [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | The University of British Columbia | edX | - No Certificate (Audit Access) -
 
