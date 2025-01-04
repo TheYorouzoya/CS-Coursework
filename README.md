@@ -157,9 +157,6 @@ Courses | Duration | Institution | Platform | Certificate
 `relational databases`
 `transaction processing`
 `data modeling`
-`neural networks`
-`supervised learning`
-`unsupervised learning`
 `OpenGL`
 `ray tracing`
 `and more`
