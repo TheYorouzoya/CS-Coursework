@@ -237,11 +237,13 @@ Courses | Institution | Platform | Certificate
 
 ### Boot.dev Courses
 
-- [Learn Linux](https://www.boot.dev/certificates/e7eb7759-b21c-4fa3-a39b-895132ffa181)
-- [Learn Go for Developers](https://www.boot.dev/certificates/5ec84819-0aaa-4a14-956d-312985b47c76)
-- [Learn HTTP Clients in Go](https://www.boot.dev/certificates/fe1c46c9-dad8-4460-8998-90a2221abe8e)
-- [Learn SQL](https://www.boot.dev/certificates/42a1c379-d0e9-4b8b-af4d-02c7e552de59)
-- [Learn HTTP Servers in Go](https://www.boot.dev/certificates/99fe71df-faf0-4022-9841-788fcdbe1d82)
-- [Learn Git](https://www.boot.dev/certificates/8cbeab0f-a8ac-4227-972f-01c5c1297c36)
-- [Learn Git 2](https://www.boot.dev/certificates/d3f9fcf0-b293-4025-a97f-2c4ba2a9747e)
-- [Learn Docker](https://www.boot.dev/certificates/a03eaddd-f6f9-434e-9813-575a952c774e)
+Courses | Platform | Certificate
+:-- | :--: | :--:
+Learn Linux | Boot.dev | [-link](https://www.boot.dev/certificates/e7eb7759-b21c-4fa3-a39b-895132ffa181)
+Learn Go for Developers | Boot.dev | [-link](https://www.boot.dev/certificates/5ec84819-0aaa-4a14-956d-312985b47c76)
+Learn HTTP Clients in Go  | Boot.dev | [-link](https://www.boot.dev/certificates/fe1c46c9-dad8-4460-8998-90a2221abe8e)
+Learn SQL  | Boot.dev | [-link](https://www.boot.dev/certificates/42a1c379-d0e9-4b8b-af4d-02c7e552de59)
+Learn HTTP Servers in Go  | Boot.dev | [-link](https://www.boot.dev/certificates/99fe71df-faf0-4022-9841-788fcdbe1d82)
+Learn Git  | Boot.dev | [-link](https://www.boot.dev/certificates/8cbeab0f-a8ac-4227-972f-01c5c1297c36)
+Learn Git 2  | Boot.dev | [-link](https://www.boot.dev/certificates/d3f9fcf0-b293-4025-a97f-2c4ba2a9747e)
+Learn Docker  | Boot.dev | [-link](https://www.boot.dev/certificates/a03eaddd-f6f9-434e-9813-575a952c774e)
