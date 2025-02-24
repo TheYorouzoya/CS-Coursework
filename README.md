@@ -212,7 +212,7 @@ Courses | Duration | Institution | Platform | Certificate
 [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | - | Udacity (YouTube) | - No Certificate Provided -
 
 
-### AWS Fundamentals
+## AWS Fundamentals
 
 **Topics covered**:
 `Core AWS Services`
@@ -235,7 +235,7 @@ Courses | Institution | Platform | Certificate
 [Architecting Solutions on AWS](https://www.coursera.org/learn/architecting-solutions-on-aws) | Amazon Web Services | Coursera | [-link-](https://coursera.org/share/7e3aca355fc2b60100304df8d23bc2ae)
 
 
-### Boot.dev Courses
+## Boot.dev Courses
 
 **Topics covered**:
 `Linux`
