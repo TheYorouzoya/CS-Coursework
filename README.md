@@ -237,6 +237,16 @@ Courses | Institution | Platform | Certificate
 
 ### Boot.dev Courses
 
+**Topics covered**:
+`Linux`
+`Shell`
+`Go`
+`HTTP Clients`
+`HTTP Servers`
+`Git`
+`Docker`
+`and more`
+
 Courses | Platform | Certificate
 :-- | :--: | :--:
 Learn Linux | Boot.dev | [-link-](https://www.boot.dev/certificates/e7eb7759-b21c-4fa3-a39b-895132ffa181)
