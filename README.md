@@ -234,3 +234,14 @@ Courses | Institution | Platform | Certificate
 [Migrating to the AWS Cloud](https://www.coursera.org/learn/aws-fundamentals-migrating-to-the-cloud) | Amazon Web Services | Coursera | [-link-](https://coursera.org/share/0f7cf89075fbd77d557c9e62330a0e57)
 [Architecting Solutions on AWS](https://www.coursera.org/learn/architecting-solutions-on-aws) | Amazon Web Services | Coursera | [-link-](https://coursera.org/share/7e3aca355fc2b60100304df8d23bc2ae)
 
+
+### Boot.dev Courses
+
+- [Learn Linux](https://www.boot.dev/certificates/e7eb7759-b21c-4fa3-a39b-895132ffa181)
+- [Learn Go for Developers](https://www.boot.dev/certificates/5ec84819-0aaa-4a14-956d-312985b47c76)
+- [Learn HTTP Clients in Go](https://www.boot.dev/certificates/fe1c46c9-dad8-4460-8998-90a2221abe8e)
+- [Learn SQL](https://www.boot.dev/certificates/42a1c379-d0e9-4b8b-af4d-02c7e552de59)
+- [Learn HTTP Servers in Go](https://www.boot.dev/certificates/99fe71df-faf0-4022-9841-788fcdbe1d82)
+- [Learn Git](https://www.boot.dev/certificates/8cbeab0f-a8ac-4227-972f-01c5c1297c36)
+- [Learn Git 2](https://www.boot.dev/certificates/d3f9fcf0-b293-4025-a97f-2c4ba2a9747e)
+- [Learn Docker](https://www.boot.dev/certificates/a03eaddd-f6f9-434e-9813-575a952c774e)
