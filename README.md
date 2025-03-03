@@ -207,7 +207,7 @@ Courses | Duration | Institution | Platform | Certificate
 [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming) | 6 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | [-link-](https://coursera.org/share/de80ca760acfb7bbcff4fb14c4f86c1e)
 [Functional Programming Design in Scala](https://www.coursera.org/learn/scala-functional-program-design) | 5 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | [-link-](https://coursera.org/share/06530df387fd191c3abba77571191816)
 [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | [-link-](https://coursera.org/share/d6ff04d9f1b760fd16e8cc6c718b5f1d)
-[Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data) | 4 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | *(Ongoing)*
+[Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data) | 4 weeks | EPFL - Swiss Federal Technology Institute of Lausanne | Coursera | [-link-](https://coursera.org/share/4818220753598acf99001c259b5a6466)
 [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)| 8 weeks | - | Udacity (YouTube) | - No Certificate Provided -
 [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | - | Udacity (YouTube) | - No Certificate Provided -
 
