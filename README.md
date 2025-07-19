@@ -257,3 +257,6 @@ Learn HTTP Servers in Go  | Boot.dev | [-link-](https://www.boot.dev/certificate
 Learn Git  | Boot.dev | [-link-](https://www.boot.dev/certificates/8cbeab0f-a8ac-4227-972f-01c5c1297c36)
 Learn Git 2  | Boot.dev | [-link-](https://www.boot.dev/certificates/d3f9fcf0-b293-4025-a97f-2c4ba2a9747e)
 Learn Docker  | Boot.dev | [-link-](https://www.boot.dev/certificates/a03eaddd-f6f9-434e-9813-575a952c774e)
+Learn JavaScript  | Boot.dev | [-link-](https://www.boot.dev/certificates/f52d4d04-dd49-41b2-a48b-6a64ce176a27)
+Learn TypeScript  | Boot.dev | [-link-](https://www.boot.dev/certificates/ed24fe74-32b6-4f51-85d6-95a2a85d80f7)
+Learn Pub/Sub Architecture in RabbitMQ | Boot.dev | [-link](https://www.boot.dev/certificates/1e7c0c38-8f43-469e-a3a9-87b51e6915e2)
